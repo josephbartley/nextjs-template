@@ -6,16 +6,15 @@ Local development:
 
 ```bash
 yarn install
-yarn dev 
+yarn dev
 ```
 
-Best Practices: 
+Best Practices:
 
 ```bash
 yarn lint
 yarn prettier
 ```
-
 
 Build the application for production
 
@@ -24,5 +23,5 @@ Build the application for production
 yarn build && yarn export
 
 # otherwise, just build
-yarn build 
+yarn build
 ```
