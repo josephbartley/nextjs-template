@@ -1,4 +1,6 @@
 {
 	"editor.formatOnSave": true,
-	"editor.formatOnSaveMode": "modificationsIfAvailable"
+	"editor.formatOnSaveMode": "modificationsIfAvailable",
+	"typescript.tsdk": "node_modules\\typescript\\lib",
+	"typescript.enablePromptUseWorkspaceTsdk": true
 }
